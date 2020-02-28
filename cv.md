@@ -11,7 +11,7 @@
 ???
 TODO
 ## 4. Skills 
-* The most experience I have is in the Java programming language for Android operational system. I can make simple GUI-application storing and display some information in different ways. As you can guess, I am also learning data storing related languages: SQL, XML, JSON. I understand OOP principles, have a few knowledge about projecting patterns. 
+* The most experience I have is in the Java programming language for Android operational system. I can make simple GUI-application storing and display some information in different ways. As you can guess, I am also learning data storing related languages: SQL, XML, JSON. I understand OOP principles, have a few knowledge about design patterns. 
 ## 5. Code examples
 * Coming soon
 ## 6. Experience 
